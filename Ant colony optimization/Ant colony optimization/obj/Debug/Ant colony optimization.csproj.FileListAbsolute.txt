@@ -1,0 +1,11 @@
+E:\GitRepo\Ant colony optimization\Ant colony optimization\bin\Debug\Ant colony optimization.exe.config
+E:\GitRepo\Ant colony optimization\Ant colony optimization\bin\Debug\Ant colony optimization.exe
+E:\GitRepo\Ant colony optimization\Ant colony optimization\bin\Debug\Ant colony optimization.pdb
+E:\GitRepo\Ant colony optimization\Ant colony optimization\obj\Debug\Ant colony optimization.csproj.AssemblyReference.cache
+E:\GitRepo\Ant colony optimization\Ant colony optimization\obj\Debug\Ant_colony_optimization.Form1.resources
+E:\GitRepo\Ant colony optimization\Ant colony optimization\obj\Debug\Ant_colony_optimization.Properties.Resources.resources
+E:\GitRepo\Ant colony optimization\Ant colony optimization\obj\Debug\Ant colony optimization.csproj.GenerateResource.cache
+E:\GitRepo\Ant colony optimization\Ant colony optimization\obj\Debug\Ant colony optimization.csproj.CoreCompileInputs.cache
+E:\GitRepo\Ant colony optimization\Ant colony optimization\obj\Debug\Ant colony optimization.exe
+E:\GitRepo\Ant colony optimization\Ant colony optimization\obj\Debug\Ant colony optimization.pdb
+E:\GitRepo\Ant colony optimization\Ant colony optimization\obj\Debug\Ant colony optimization.exe.config

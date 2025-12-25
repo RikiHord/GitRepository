@@ -1,0 +1,7 @@
+E:\GitRepo\Algorithm\Insetrion Sort\Insetrion Sort\bin\Debug\Insetrion Sort.exe.config
+E:\GitRepo\Algorithm\Insetrion Sort\Insetrion Sort\bin\Debug\Insetrion Sort.exe
+E:\GitRepo\Algorithm\Insetrion Sort\Insetrion Sort\bin\Debug\Insetrion Sort.pdb
+E:\GitRepo\Algorithm\Insetrion Sort\Insetrion Sort\obj\Debug\Insetrion Sort.csproj.AssemblyReference.cache
+E:\GitRepo\Algorithm\Insetrion Sort\Insetrion Sort\obj\Debug\Insetrion Sort.csproj.CoreCompileInputs.cache
+E:\GitRepo\Algorithm\Insetrion Sort\Insetrion Sort\obj\Debug\Insetrion Sort.exe
+E:\GitRepo\Algorithm\Insetrion Sort\Insetrion Sort\obj\Debug\Insetrion Sort.pdb
