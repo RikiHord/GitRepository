@@ -1,0 +1,15 @@
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\bin\Debug\net8.0\NewDriversLicense.exe
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\bin\Debug\net8.0\NewDriversLicense.deps.json
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\bin\Debug\net8.0\NewDriversLicense.runtimeconfig.json
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\bin\Debug\net8.0\NewDriversLicense.dll
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\bin\Debug\net8.0\NewDriversLicense.pdb
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\obj\Debug\net8.0\NewDriversLicense.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\obj\Debug\net8.0\NewDriversLicense.AssemblyInfoInputs.cache
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\obj\Debug\net8.0\NewDriversLicense.AssemblyInfo.cs
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\obj\Debug\net8.0\NewDriversLicense.csproj.CoreCompileInputs.cache
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\obj\Debug\net8.0\NewDriversLicense.sourcelink.json
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\obj\Debug\net8.0\NewDriversLicense.dll
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\obj\Debug\net8.0\refint\NewDriversLicense.dll
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\obj\Debug\net8.0\NewDriversLicense.pdb
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\obj\Debug\net8.0\NewDriversLicense.genruntimeconfig.cache
+E:\GitRepository\CodeSimulator\NewDriversLicense\NewDriversLicense\obj\Debug\net8.0\ref\NewDriversLicense.dll

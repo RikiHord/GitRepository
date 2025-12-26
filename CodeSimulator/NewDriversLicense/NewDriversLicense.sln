@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewDriversLicense", "NewDriversLicense\NewDriversLicense.csproj", "{3045D2BC-7C5E-4AFF-A735-7399130D487B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNewDriveLicense", "TestNewDriveLicense\TestNewDriveLicense.csproj", "{053BAC53-D56C-404D-8FBF-93A630FCF808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3045D2BC-7C5E-4AFF-A735-7399130D487B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3045D2BC-7C5E-4AFF-A735-7399130D487B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3045D2BC-7C5E-4AFF-A735-7399130D487B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3045D2BC-7C5E-4AFF-A735-7399130D487B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053BAC53-D56C-404D-8FBF-93A630FCF808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053BAC53-D56C-404D-8FBF-93A630FCF808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053BAC53-D56C-404D-8FBF-93A630FCF808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053BAC53-D56C-404D-8FBF-93A630FCF808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C300BF5-DC9F-4F05-BECD-03DD04B40CC1}
+	EndGlobalSection
+EndGlobal
