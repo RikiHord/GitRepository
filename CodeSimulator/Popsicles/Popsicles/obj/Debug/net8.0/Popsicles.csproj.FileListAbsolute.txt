@@ -1,0 +1,15 @@
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\bin\Debug\net8.0\Popsicles.exe
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\bin\Debug\net8.0\Popsicles.deps.json
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\bin\Debug\net8.0\Popsicles.runtimeconfig.json
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\bin\Debug\net8.0\Popsicles.dll
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\bin\Debug\net8.0\Popsicles.pdb
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\obj\Debug\net8.0\Popsicles.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\obj\Debug\net8.0\Popsicles.AssemblyInfoInputs.cache
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\obj\Debug\net8.0\Popsicles.AssemblyInfo.cs
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\obj\Debug\net8.0\Popsicles.csproj.CoreCompileInputs.cache
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\obj\Debug\net8.0\Popsicles.sourcelink.json
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\obj\Debug\net8.0\Popsicles.dll
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\obj\Debug\net8.0\refint\Popsicles.dll
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\obj\Debug\net8.0\Popsicles.pdb
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\obj\Debug\net8.0\Popsicles.genruntimeconfig.cache
+E:\GitRepository\CodeSimulator\Popsicles\Popsicles\obj\Debug\net8.0\ref\Popsicles.dll
