@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitRepository\\CodeSimulator\\Thats Odd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BE6BF8-F8CA-4788-81E2-974D4BDE4E4E}|Thats Odd\\Thats Odd.csproj|e:\\gitrepository\\codesimulator\\thats odd\\thats odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BE6BF8-F8CA-4788-81E2-974D4BDE4E4E}|Thats Odd\\Thats Odd.csproj|solutionrelative:thats odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BE6BF8-F8CA-4788-81E2-974D4BDE4E4E}|Thats Odd\\Thats Odd.csproj|e:\\gitrepository\\codesimulator\\thats odd\\thats odd\\evensumcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BE6BF8-F8CA-4788-81E2-974D4BDE4E4E}|Thats Odd\\Thats Odd.csproj|solutionrelative:thats odd\\evensumcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97CB84D-5AA8-4A45-AF39-7EDD8D57AB67}|TestProjectThatsOdd\\TestProjectThatsOdd.csproj|e:\\gitrepository\\codesimulator\\thats odd\\testprojectthatsodd\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97CB84D-5AA8-4A45-AF39-7EDD8D57AB67}|TestProjectThatsOdd\\TestProjectThatsOdd.csproj|solutionrelative:testprojectthatsodd\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvenSumCalculator.cs",
+              "DocumentMoniker": "E:\\GitRepository\\CodeSimulator\\Thats Odd\\Thats Odd\\EvenSumCalculator.cs",
+              "RelativeDocumentMoniker": "Thats Odd\\EvenSumCalculator.cs",
+              "ToolTip": "E:\\GitRepository\\CodeSimulator\\Thats Odd\\Thats Odd\\EvenSumCalculator.cs",
+              "RelativeToolTip": "Thats Odd\\EvenSumCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:08:20.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "E:\\GitRepository\\CodeSimulator\\Thats Odd\\TestProjectThatsOdd\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProjectThatsOdd\\Test1.cs",
+              "ToolTip": "E:\\GitRepository\\CodeSimulator\\Thats Odd\\TestProjectThatsOdd\\Test1.cs",
+              "RelativeToolTip": "TestProjectThatsOdd\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T09:59:52.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitRepository\\CodeSimulator\\Thats Odd\\Thats Odd\\Program.cs",
+              "RelativeDocumentMoniker": "Thats Odd\\Program.cs",
+              "ToolTip": "E:\\GitRepository\\CodeSimulator\\Thats Odd\\Thats Odd\\Program.cs",
+              "RelativeToolTip": "Thats Odd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T08:59:33.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
