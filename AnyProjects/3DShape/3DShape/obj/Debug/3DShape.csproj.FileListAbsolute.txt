@@ -1,0 +1,11 @@
+E:\GitRepository\AnyProjects\3DShape\3DShape\bin\Debug\3DShape.exe.config
+E:\GitRepository\AnyProjects\3DShape\3DShape\bin\Debug\3DShape.exe
+E:\GitRepository\AnyProjects\3DShape\3DShape\bin\Debug\3DShape.pdb
+E:\GitRepository\AnyProjects\3DShape\3DShape\obj\Debug\3DShape.csproj.AssemblyReference.cache
+E:\GitRepository\AnyProjects\3DShape\3DShape\obj\Debug\_3DShape.Form1.resources
+E:\GitRepository\AnyProjects\3DShape\3DShape\obj\Debug\_3DShape.Properties.Resources.resources
+E:\GitRepository\AnyProjects\3DShape\3DShape\obj\Debug\3DShape.csproj.GenerateResource.cache
+E:\GitRepository\AnyProjects\3DShape\3DShape\obj\Debug\3DShape.csproj.CoreCompileInputs.cache
+E:\GitRepository\AnyProjects\3DShape\3DShape\obj\Debug\3DShape.exe
+E:\GitRepository\AnyProjects\3DShape\3DShape\obj\Debug\3DShape.pdb
+E:\GitRepository\AnyProjects\3DShape\3DShape\obj\Debug\3DShape.exe.config
