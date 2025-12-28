@@ -1,0 +1,15 @@
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\bin\Debug\net8.0\SumAllNNumbers.exe
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\bin\Debug\net8.0\SumAllNNumbers.deps.json
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\bin\Debug\net8.0\SumAllNNumbers.runtimeconfig.json
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\bin\Debug\net8.0\SumAllNNumbers.dll
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\bin\Debug\net8.0\SumAllNNumbers.pdb
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\obj\Debug\net8.0\SumAllNNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\obj\Debug\net8.0\SumAllNNumbers.AssemblyInfoInputs.cache
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\obj\Debug\net8.0\SumAllNNumbers.AssemblyInfo.cs
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\obj\Debug\net8.0\SumAllNNumbers.csproj.CoreCompileInputs.cache
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\obj\Debug\net8.0\SumAllNNumbers.sourcelink.json
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\obj\Debug\net8.0\SumAllNNumbers.dll
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\obj\Debug\net8.0\refint\SumAllNNumbers.dll
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\obj\Debug\net8.0\SumAllNNumbers.pdb
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\obj\Debug\net8.0\SumAllNNumbers.genruntimeconfig.cache
+E:\GitRepository\CodeSimulator\SumAllNNumbers\SumAllNNumbers\obj\Debug\net8.0\ref\SumAllNNumbers.dll
