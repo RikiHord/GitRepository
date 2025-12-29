@@ -1,0 +1,15 @@
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\bin\Debug\net8.0\ItsASign.exe
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\bin\Debug\net8.0\ItsASign.deps.json
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\bin\Debug\net8.0\ItsASign.runtimeconfig.json
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\bin\Debug\net8.0\ItsASign.dll
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\bin\Debug\net8.0\ItsASign.pdb
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\obj\Debug\net8.0\ItsASign.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\obj\Debug\net8.0\ItsASign.AssemblyInfoInputs.cache
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\obj\Debug\net8.0\ItsASign.AssemblyInfo.cs
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\obj\Debug\net8.0\ItsASign.csproj.CoreCompileInputs.cache
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\obj\Debug\net8.0\ItsASign.sourcelink.json
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\obj\Debug\net8.0\ItsASign.dll
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\obj\Debug\net8.0\refint\ItsASign.dll
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\obj\Debug\net8.0\ItsASign.pdb
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\obj\Debug\net8.0\ItsASign.genruntimeconfig.cache
+E:\GitRepository\CodeSimulator\ItsASign\ItsASign\obj\Debug\net8.0\ref\ItsASign.dll
