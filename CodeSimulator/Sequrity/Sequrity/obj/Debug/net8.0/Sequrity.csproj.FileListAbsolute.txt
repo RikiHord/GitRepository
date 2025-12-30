@@ -1,0 +1,15 @@
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\bin\Debug\net8.0\Sequrity.exe
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\bin\Debug\net8.0\Sequrity.deps.json
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\bin\Debug\net8.0\Sequrity.runtimeconfig.json
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\bin\Debug\net8.0\Sequrity.dll
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\bin\Debug\net8.0\Sequrity.pdb
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\obj\Debug\net8.0\Sequrity.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\obj\Debug\net8.0\Sequrity.AssemblyInfoInputs.cache
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\obj\Debug\net8.0\Sequrity.AssemblyInfo.cs
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\obj\Debug\net8.0\Sequrity.csproj.CoreCompileInputs.cache
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\obj\Debug\net8.0\Sequrity.sourcelink.json
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\obj\Debug\net8.0\Sequrity.dll
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\obj\Debug\net8.0\refint\Sequrity.dll
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\obj\Debug\net8.0\Sequrity.pdb
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\obj\Debug\net8.0\Sequrity.genruntimeconfig.cache
+E:\GitRepository\CodeSimulator\Sequrity\Sequrity\obj\Debug\net8.0\ref\Sequrity.dll
