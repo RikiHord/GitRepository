@@ -1,0 +1,15 @@
+E:\GitRepository\CodeSimulator\2DMap\2DMap\bin\Debug\net8.0\2DMap.exe
+E:\GitRepository\CodeSimulator\2DMap\2DMap\bin\Debug\net8.0\2DMap.deps.json
+E:\GitRepository\CodeSimulator\2DMap\2DMap\bin\Debug\net8.0\2DMap.runtimeconfig.json
+E:\GitRepository\CodeSimulator\2DMap\2DMap\bin\Debug\net8.0\2DMap.dll
+E:\GitRepository\CodeSimulator\2DMap\2DMap\bin\Debug\net8.0\2DMap.pdb
+E:\GitRepository\CodeSimulator\2DMap\2DMap\obj\Debug\net8.0\2DMap.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepository\CodeSimulator\2DMap\2DMap\obj\Debug\net8.0\2DMap.AssemblyInfoInputs.cache
+E:\GitRepository\CodeSimulator\2DMap\2DMap\obj\Debug\net8.0\2DMap.AssemblyInfo.cs
+E:\GitRepository\CodeSimulator\2DMap\2DMap\obj\Debug\net8.0\2DMap.csproj.CoreCompileInputs.cache
+E:\GitRepository\CodeSimulator\2DMap\2DMap\obj\Debug\net8.0\2DMap.sourcelink.json
+E:\GitRepository\CodeSimulator\2DMap\2DMap\obj\Debug\net8.0\2DMap.dll
+E:\GitRepository\CodeSimulator\2DMap\2DMap\obj\Debug\net8.0\refint\2DMap.dll
+E:\GitRepository\CodeSimulator\2DMap\2DMap\obj\Debug\net8.0\2DMap.pdb
+E:\GitRepository\CodeSimulator\2DMap\2DMap\obj\Debug\net8.0\2DMap.genruntimeconfig.cache
+E:\GitRepository\CodeSimulator\2DMap\2DMap\obj\Debug\net8.0\ref\2DMap.dll
