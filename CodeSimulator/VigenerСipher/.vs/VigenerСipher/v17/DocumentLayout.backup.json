@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitRepository\\CodeSimulator\\Vigener\u0421ipher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72A9610E-08AD-496A-8CA1-0C7EEDBCC678}|TestVigenerCipher\\TestVigenerCipher.csproj|e:\\gitrepository\\codesimulator\\vigener\u0441ipher\\testvigenercipher\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A9610E-08AD-496A-8CA1-0C7EEDBCC678}|TestVigenerCipher\\TestVigenerCipher.csproj|solutionrelative:testvigenercipher\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC0E213-62D0-4409-8D73-B1D5A1E9A889}|Vigener\u0421ipher\\Vigener\u0421ipher.csproj|e:\\gitrepository\\codesimulator\\vigener\u0441ipher\\vigener\u0441ipher\\vigener\u0441ipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC0E213-62D0-4409-8D73-B1D5A1E9A889}|Vigener\u0421ipher\\Vigener\u0421ipher.csproj|solutionrelative:vigener\u0441ipher\\vigener\u0441ipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC0E213-62D0-4409-8D73-B1D5A1E9A889}|Vigener\u0421ipher\\Vigener\u0421ipher.csproj|e:\\gitrepository\\codesimulator\\vigener\u0441ipher\\vigener\u0441ipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC0E213-62D0-4409-8D73-B1D5A1E9A889}|Vigener\u0421ipher\\Vigener\u0421ipher.csproj|solutionrelative:vigener\u0441ipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "E:\\GitRepository\\CodeSimulator\\Vigener\u0421ipher\\TestVigenerCipher\\Test1.cs",
+              "RelativeDocumentMoniker": "TestVigenerCipher\\Test1.cs",
+              "ToolTip": "E:\\GitRepository\\CodeSimulator\\Vigener\u0421ipher\\TestVigenerCipher\\Test1.cs",
+              "RelativeToolTip": "TestVigenerCipher\\Test1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T10:30:52.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vigener\u0421ipher.cs",
+              "DocumentMoniker": "E:\\GitRepository\\CodeSimulator\\Vigener\u0421ipher\\Vigener\u0421ipher\\Vigener\u0421ipher.cs",
+              "RelativeDocumentMoniker": "Vigener\u0421ipher\\Vigener\u0421ipher.cs",
+              "ToolTip": "E:\\GitRepository\\CodeSimulator\\Vigener\u0421ipher\\Vigener\u0421ipher\\Vigener\u0421ipher.cs",
+              "RelativeToolTip": "Vigener\u0421ipher\\Vigener\u0421ipher.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T10:19:34.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitRepository\\CodeSimulator\\Vigener\u0421ipher\\Vigener\u0421ipher\\Program.cs",
+              "RelativeDocumentMoniker": "Vigener\u0421ipher\\Program.cs",
+              "ToolTip": "E:\\GitRepository\\CodeSimulator\\Vigener\u0421ipher\\Vigener\u0421ipher\\Program.cs",
+              "RelativeToolTip": "Vigener\u0421ipher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T10:19:10.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

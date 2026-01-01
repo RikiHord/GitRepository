@@ -1,0 +1,15 @@
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\bin\Debug\net8.0\VigenerСipher.exe
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\bin\Debug\net8.0\VigenerСipher.deps.json
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\bin\Debug\net8.0\VigenerСipher.runtimeconfig.json
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\bin\Debug\net8.0\VigenerСipher.dll
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\bin\Debug\net8.0\VigenerСipher.pdb
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\obj\Debug\net8.0\VigenerСipher.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\obj\Debug\net8.0\VigenerСipher.AssemblyInfoInputs.cache
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\obj\Debug\net8.0\VigenerСipher.AssemblyInfo.cs
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\obj\Debug\net8.0\VigenerСipher.csproj.CoreCompileInputs.cache
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\obj\Debug\net8.0\VigenerСipher.sourcelink.json
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\obj\Debug\net8.0\VigenerСipher.dll
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\obj\Debug\net8.0\refint\VigenerСipher.dll
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\obj\Debug\net8.0\VigenerСipher.pdb
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\obj\Debug\net8.0\VigenerСipher.genruntimeconfig.cache
+E:\GitRepository\CodeSimulator\VigenerСipher\VigenerСipher\obj\Debug\net8.0\ref\VigenerСipher.dll
