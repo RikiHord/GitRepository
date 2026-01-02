@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitRepository\\CodeSimulator\\DigitsOfPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA12163-6EEB-46B8-867F-B91FBAD41BBD}|DigitsOfPI\\DigitsOfPI.csproj|e:\\gitrepository\\codesimulator\\digitsofpi\\digitsofpi\\mainpi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA12163-6EEB-46B8-867F-B91FBAD41BBD}|DigitsOfPI\\DigitsOfPI.csproj|solutionrelative:digitsofpi\\mainpi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA12163-6EEB-46B8-867F-B91FBAD41BBD}|DigitsOfPI\\DigitsOfPI.csproj|e:\\gitrepository\\codesimulator\\digitsofpi\\digitsofpi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA12163-6EEB-46B8-867F-B91FBAD41BBD}|DigitsOfPI\\DigitsOfPI.csproj|solutionrelative:digitsofpi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPI.cs",
+              "DocumentMoniker": "E:\\GitRepository\\CodeSimulator\\DigitsOfPI\\DigitsOfPI\\MainPI.cs",
+              "RelativeDocumentMoniker": "DigitsOfPI\\MainPI.cs",
+              "ToolTip": "E:\\GitRepository\\CodeSimulator\\DigitsOfPI\\DigitsOfPI\\MainPI.cs",
+              "RelativeToolTip": "DigitsOfPI\\MainPI.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:11:00.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitRepository\\CodeSimulator\\DigitsOfPI\\DigitsOfPI\\Program.cs",
+              "RelativeDocumentMoniker": "DigitsOfPI\\Program.cs",
+              "ToolTip": "E:\\GitRepository\\CodeSimulator\\DigitsOfPI\\DigitsOfPI\\Program.cs",
+              "RelativeToolTip": "DigitsOfPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:09:30.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\bin\Debug\net8.0\DigitsOfPI.exe
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\bin\Debug\net8.0\DigitsOfPI.deps.json
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\bin\Debug\net8.0\DigitsOfPI.runtimeconfig.json
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\bin\Debug\net8.0\DigitsOfPI.dll
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\bin\Debug\net8.0\DigitsOfPI.pdb
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\obj\Debug\net8.0\DigitsOfPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\obj\Debug\net8.0\DigitsOfPI.AssemblyInfoInputs.cache
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\obj\Debug\net8.0\DigitsOfPI.AssemblyInfo.cs
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\obj\Debug\net8.0\DigitsOfPI.csproj.CoreCompileInputs.cache
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\obj\Debug\net8.0\DigitsOfPI.sourcelink.json
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\obj\Debug\net8.0\DigitsOfPI.dll
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\obj\Debug\net8.0\refint\DigitsOfPI.dll
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\obj\Debug\net8.0\DigitsOfPI.pdb
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\obj\Debug\net8.0\DigitsOfPI.genruntimeconfig.cache
+E:\GitRepository\CodeSimulator\DigitsOfPI\DigitsOfPI\obj\Debug\net8.0\ref\DigitsOfPI.dll
