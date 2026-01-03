@@ -1,0 +1,20 @@
+C:\Users\lenovo\AppData\Local\Temporary Projects\The Great Town\bin\Debug\The Great Town.exe.config
+C:\Users\lenovo\AppData\Local\Temporary Projects\The Great Town\bin\Debug\The Great Town.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\The Great Town\bin\Debug\The Great Town.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\The Great Town\obj\Debug\The Great Town.csprojAssemblyReference.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\The Great Town\obj\Debug\The_Great_Town.MainForm.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\The Great Town\obj\Debug\The_Great_Town.Properties.Resources.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\The Great Town\obj\Debug\The Great Town.csproj.GenerateResource.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\The Great Town\obj\Debug\The Great Town.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\The Great Town\obj\Debug\The Great Town.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\The Great Town\obj\Debug\The Great Town.pdb
+C:\Users\lenovo\source\repos\The Great Town\The Great Town\bin\Debug\The Great Town.exe.config
+C:\Users\lenovo\source\repos\The Great Town\The Great Town\bin\Debug\The Great Town.exe
+C:\Users\lenovo\source\repos\The Great Town\The Great Town\bin\Debug\The Great Town.pdb
+C:\Users\lenovo\source\repos\The Great Town\The Great Town\obj\Debug\The Great Town.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\The Great Town\The Great Town\obj\Debug\The_Great_Town.MainForm.resources
+C:\Users\lenovo\source\repos\The Great Town\The Great Town\obj\Debug\The_Great_Town.Properties.Resources.resources
+C:\Users\lenovo\source\repos\The Great Town\The Great Town\obj\Debug\The Great Town.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\The Great Town\The Great Town\obj\Debug\The Great Town.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\The Great Town\The Great Town\obj\Debug\The Great Town.exe
+C:\Users\lenovo\source\repos\The Great Town\The Great Town\obj\Debug\The Great Town.pdb
