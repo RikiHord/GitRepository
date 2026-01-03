@@ -1,0 +1,25 @@
+C:\Users\lenovo\AppData\Local\Temporary Projects\Polibius cipher\bin\Debug\Polibius cipher.exe.config
+C:\Users\lenovo\AppData\Local\Temporary Projects\Polibius cipher\bin\Debug\Polibius cipher.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\Polibius cipher\bin\Debug\Polibius cipher.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\Polibius cipher\obj\Debug\Polibius cipher.csprojAssemblyReference.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\Polibius cipher\obj\Debug\Polibius_cipher.FormMainMenu.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\Polibius cipher\obj\Debug\Polibius_cipher.Properties.Resources.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\Polibius cipher\obj\Debug\Polibius cipher.csproj.GenerateResource.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\Polibius cipher\obj\Debug\Polibius cipher.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\Polibius cipher\obj\Debug\Polibius cipher.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\Polibius cipher\obj\Debug\Polibius cipher.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\Polibius cipher\obj\Debug\Polibius_cipher.Forms.AboutMe.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\Polibius cipher\obj\Debug\Polibius_cipher.Forms.Decrypt.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\Polibius cipher\obj\Debug\Polibius_cipher.Forms.Encrypt.resources
+C:\Users\lenovo\source\repos\Polibius cipher\Polibius cipher\bin\Debug\Polibius cipher.exe.config
+C:\Users\lenovo\source\repos\Polibius cipher\Polibius cipher\bin\Debug\Polibius cipher.exe
+C:\Users\lenovo\source\repos\Polibius cipher\Polibius cipher\bin\Debug\Polibius cipher.pdb
+C:\Users\lenovo\source\repos\Polibius cipher\Polibius cipher\obj\Debug\Polibius_cipher.FormMainMenu.resources
+C:\Users\lenovo\source\repos\Polibius cipher\Polibius cipher\obj\Debug\Polibius_cipher.Forms.AboutMe.resources
+C:\Users\lenovo\source\repos\Polibius cipher\Polibius cipher\obj\Debug\Polibius_cipher.Forms.Decrypt.resources
+C:\Users\lenovo\source\repos\Polibius cipher\Polibius cipher\obj\Debug\Polibius_cipher.Forms.Encrypt.resources
+C:\Users\lenovo\source\repos\Polibius cipher\Polibius cipher\obj\Debug\Polibius_cipher.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Polibius cipher\Polibius cipher\obj\Debug\Polibius cipher.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Polibius cipher\Polibius cipher\obj\Debug\Polibius cipher.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Polibius cipher\Polibius cipher\obj\Debug\Polibius cipher.exe
+C:\Users\lenovo\source\repos\Polibius cipher\Polibius cipher\obj\Debug\Polibius cipher.pdb

@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\UDPChatWinForms\UDPChatWinForms\bin\Debug\UDPChatWinForms.exe.config
+C:\Users\lenovo\source\repos\UDPChatWinForms\UDPChatWinForms\bin\Debug\UDPChatWinForms.exe
+C:\Users\lenovo\source\repos\UDPChatWinForms\UDPChatWinForms\bin\Debug\UDPChatWinForms.pdb
+C:\Users\lenovo\source\repos\UDPChatWinForms\UDPChatWinForms\obj\Debug\UDPChatWinForms.Form1.resources
+C:\Users\lenovo\source\repos\UDPChatWinForms\UDPChatWinForms\obj\Debug\UDPChatWinForms.Properties.Resources.resources
+C:\Users\lenovo\source\repos\UDPChatWinForms\UDPChatWinForms\obj\Debug\UDPChatWinForms.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\UDPChatWinForms\UDPChatWinForms\obj\Debug\UDPChatWinForms.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\UDPChatWinForms\UDPChatWinForms\obj\Debug\UDPChatWinForms.exe
+C:\Users\lenovo\source\repos\UDPChatWinForms\UDPChatWinForms\obj\Debug\UDPChatWinForms.pdb

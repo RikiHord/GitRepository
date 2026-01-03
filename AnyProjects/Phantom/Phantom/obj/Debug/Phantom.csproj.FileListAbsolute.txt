@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\Phantom\Phantom\bin\Debug\Phantom.exe.config
+C:\Users\lenovo\source\repos\Phantom\Phantom\bin\Debug\Phantom.exe
+C:\Users\lenovo\source\repos\Phantom\Phantom\bin\Debug\Phantom.pdb
+C:\Users\lenovo\source\repos\Phantom\Phantom\obj\Debug\Phantom.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Phantom\Phantom\obj\Debug\Phantom.MainForm.resources
+C:\Users\lenovo\source\repos\Phantom\Phantom\obj\Debug\Phantom.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Phantom\Phantom\obj\Debug\Phantom.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Phantom\Phantom\obj\Debug\Phantom.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Phantom\Phantom\obj\Debug\Phantom.exe
+C:\Users\lenovo\source\repos\Phantom\Phantom\obj\Debug\Phantom.pdb
+C:\Users\lenovo\source\repos\Phantom\Phantom\bin\Debug\PhantomDB.db
+C:\Users\lenovo\source\repos\Phantom\Phantom\bin\Debug\Dapper.dll
+C:\Users\lenovo\source\repos\Phantom\Phantom\bin\Debug\System.Data.SQLite.dll
+C:\Users\lenovo\source\repos\Phantom\Phantom\bin\Debug\Dapper.xml
+C:\Users\lenovo\source\repos\Phantom\Phantom\bin\Debug\System.Data.SQLite.xml
+C:\Users\lenovo\source\repos\Phantom\Phantom\obj\Debug\Phantom.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Resize Project\Resize Project\bin\Debug\Resize Project.exe.config
+C:\Users\lenovo\source\repos\Resize Project\Resize Project\bin\Debug\Resize Project.exe
+C:\Users\lenovo\source\repos\Resize Project\Resize Project\bin\Debug\Resize Project.pdb
+C:\Users\lenovo\source\repos\Resize Project\Resize Project\obj\Debug\Resize Project.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Resize Project\Resize Project\obj\Debug\Resize Project.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Resize Project\Resize Project\obj\Debug\Resize Project.exe
+C:\Users\lenovo\source\repos\Resize Project\Resize Project\obj\Debug\Resize Project.pdb

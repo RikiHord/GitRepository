@@ -1,0 +1,27 @@
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\bin\Debug\Rofl.exe.config
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\bin\Debug\Rofl.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\bin\Debug\Rofl.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\obj\Debug\Rofl.csprojAssemblyReference.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\obj\Debug\Rofl.Form1.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\obj\Debug\Rofl.Properties.Resources.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\obj\Debug\Rofl.csproj.GenerateResource.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\obj\Debug\Rofl.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\obj\Debug\Rofl.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\obj\Debug\Rofl.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\bin\Debug\Rofl.exe.manifest
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\bin\Debug\Rofl.application
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\obj\Debug\Rofl.exe.manifest
+C:\Users\lenovo\AppData\Local\Temporary Projects\Rofl\obj\Debug\Rofl.application
+C:\Users\lenovo\source\repos\Rofl\Rofl\bin\Debug\Rofl.exe.config
+C:\Users\lenovo\source\repos\Rofl\Rofl\bin\Debug\Rofl.exe.manifest
+C:\Users\lenovo\source\repos\Rofl\Rofl\bin\Debug\Rofl.application
+C:\Users\lenovo\source\repos\Rofl\Rofl\bin\Debug\Rofl.exe
+C:\Users\lenovo\source\repos\Rofl\Rofl\bin\Debug\Rofl.pdb
+C:\Users\lenovo\source\repos\Rofl\Rofl\obj\Debug\Rofl.Form1.resources
+C:\Users\lenovo\source\repos\Rofl\Rofl\obj\Debug\Rofl.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Rofl\Rofl\obj\Debug\Rofl.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Rofl\Rofl\obj\Debug\Rofl.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Rofl\Rofl\obj\Debug\Rofl.exe.manifest
+C:\Users\lenovo\source\repos\Rofl\Rofl\obj\Debug\Rofl.application
+C:\Users\lenovo\source\repos\Rofl\Rofl\obj\Debug\Rofl.exe
+C:\Users\lenovo\source\repos\Rofl\Rofl\obj\Debug\Rofl.pdb

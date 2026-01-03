@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Resize Project\RefFunc\bin\Debug\RefFunc.exe.config
+C:\Users\lenovo\source\repos\Resize Project\RefFunc\bin\Debug\RefFunc.exe
+C:\Users\lenovo\source\repos\Resize Project\RefFunc\bin\Debug\RefFunc.pdb
+C:\Users\lenovo\source\repos\Resize Project\RefFunc\obj\Debug\RefFunc.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Resize Project\RefFunc\obj\Debug\RefFunc.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Resize Project\RefFunc\obj\Debug\RefFunc.exe
+C:\Users\lenovo\source\repos\Resize Project\RefFunc\obj\Debug\RefFunc.pdb

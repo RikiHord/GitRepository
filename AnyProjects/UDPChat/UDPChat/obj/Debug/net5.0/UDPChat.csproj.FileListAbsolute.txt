@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\bin\Debug\net5.0\UDPChat.exe
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\bin\Debug\net5.0\UDPChat.deps.json
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\bin\Debug\net5.0\UDPChat.runtimeconfig.json
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\bin\Debug\net5.0\UDPChat.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\bin\Debug\net5.0\UDPChat.dll
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\bin\Debug\net5.0\ref\UDPChat.dll
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\bin\Debug\net5.0\UDPChat.pdb
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\obj\Debug\net5.0\UDPChat.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\obj\Debug\net5.0\UDPChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\obj\Debug\net5.0\UDPChat.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\obj\Debug\net5.0\UDPChat.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\obj\Debug\net5.0\UDPChat.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\obj\Debug\net5.0\UDPChat.dll
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\obj\Debug\net5.0\ref\UDPChat.dll
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\obj\Debug\net5.0\UDPChat.pdb
+C:\Users\lenovo\source\repos\UDPChat\UDPChat\obj\Debug\net5.0\UDPChat.genruntimeconfig.cache

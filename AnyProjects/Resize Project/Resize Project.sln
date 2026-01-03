@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resize Project", "Resize Project\Resize Project.csproj", "{9290F816-20BF-46B7-9CEF-BBCD023E6CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefFunc", "RefFunc\RefFunc.csproj", "{3F35AE69-DBBA-479C-863E-65FFD5916017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1", "Task_1\Task_1.csproj", "{F0BE5F9C-54E6-41E8-AFC8-3505C775BC10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9290F816-20BF-46B7-9CEF-BBCD023E6CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9290F816-20BF-46B7-9CEF-BBCD023E6CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9290F816-20BF-46B7-9CEF-BBCD023E6CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9290F816-20BF-46B7-9CEF-BBCD023E6CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F35AE69-DBBA-479C-863E-65FFD5916017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F35AE69-DBBA-479C-863E-65FFD5916017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F35AE69-DBBA-479C-863E-65FFD5916017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F35AE69-DBBA-479C-863E-65FFD5916017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0BE5F9C-54E6-41E8-AFC8-3505C775BC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0BE5F9C-54E6-41E8-AFC8-3505C775BC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0BE5F9C-54E6-41E8-AFC8-3505C775BC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0BE5F9C-54E6-41E8-AFC8-3505C775BC10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B75843D6-E09B-4710-8CD0-8CCA77369FE0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\bin\Debug\net5.0\ConsoleQuickSort.exe
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\bin\Debug\net5.0\ConsoleQuickSort.deps.json
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\bin\Debug\net5.0\ConsoleQuickSort.runtimeconfig.json
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\bin\Debug\net5.0\ConsoleQuickSort.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\bin\Debug\net5.0\ConsoleQuickSort.dll
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\bin\Debug\net5.0\ref\ConsoleQuickSort.dll
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\bin\Debug\net5.0\ConsoleQuickSort.pdb
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\obj\Debug\net5.0\ConsoleQuickSort.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\obj\Debug\net5.0\ConsoleQuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\obj\Debug\net5.0\ConsoleQuickSort.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\obj\Debug\net5.0\ConsoleQuickSort.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\obj\Debug\net5.0\ConsoleQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\obj\Debug\net5.0\ConsoleQuickSort.dll
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\obj\Debug\net5.0\ref\ConsoleQuickSort.dll
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\obj\Debug\net5.0\ConsoleQuickSort.pdb
+C:\Users\lenovo\source\repos\ConsoleQuickSort\ConsoleQuickSort\obj\Debug\net5.0\ConsoleQuickSort.genruntimeconfig.cache

@@ -1,0 +1,20 @@
+C:\Users\lenovo\AppData\Local\Temporary Projects\Store\bin\Debug\Store.exe.config
+C:\Users\lenovo\AppData\Local\Temporary Projects\Store\bin\Debug\Store.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\Store\bin\Debug\Store.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\Store\obj\Debug\Store.Form1.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\Store\obj\Debug\Store.Properties.Resources.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\Store\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\Store\obj\Debug\Store.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\Store\obj\Debug\Store.pdb
+C:\Users\lenovo\source\repos\Store\Store\bin\Debug\Store.exe.config
+C:\Users\lenovo\source\repos\Store\Store\bin\Debug\Store.exe
+C:\Users\lenovo\source\repos\Store\Store\bin\Debug\Store.pdb
+C:\Users\lenovo\source\repos\Store\Store\obj\Debug\Store.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Store\Store\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Store\Store\obj\Debug\Store.exe
+C:\Users\lenovo\source\repos\Store\Store\obj\Debug\Store.pdb
+C:\Users\lenovo\source\repos\Store\Store\obj\Debug\Store.Forms.RegisterForm.resources
+C:\Users\lenovo\source\repos\Store\Store\obj\Debug\Store.Forms.StartForm.resources
+C:\Users\lenovo\source\repos\Store\Store\obj\Debug\Store.LoginForm.resources
