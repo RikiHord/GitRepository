@@ -1,0 +1,15 @@
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\bin\Debug\net8.0\PigLatin.exe
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\bin\Debug\net8.0\PigLatin.deps.json
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\bin\Debug\net8.0\PigLatin.runtimeconfig.json
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\bin\Debug\net8.0\PigLatin.dll
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\bin\Debug\net8.0\PigLatin.pdb
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.AssemblyInfoInputs.cache
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.AssemblyInfo.cs
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.csproj.CoreCompileInputs.cache
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.sourcelink.json
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.dll
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\obj\Debug\net8.0\refint\PigLatin.dll
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.pdb
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.genruntimeconfig.cache
+E:\GitRepository\CodeSimulator\PigLatin\PigLatin\obj\Debug\net8.0\ref\PigLatin.dll

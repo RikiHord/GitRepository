@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitRepository\\CodeSimulator\\PigLatin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4595B46E-DA8C-48D1-A10D-3467B6906D24}|TestPigLatin\\TestPigLatin.csproj|e:\\gitrepository\\codesimulator\\piglatin\\testpiglatin\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4595B46E-DA8C-48D1-A10D-3467B6906D24}|TestPigLatin\\TestPigLatin.csproj|solutionrelative:testpiglatin\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B0F90B-6287-4F12-8766-E0F77C60B335}|PigLatin\\PigLatin.csproj|e:\\gitrepository\\codesimulator\\piglatin\\piglatin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B0F90B-6287-4F12-8766-E0F77C60B335}|PigLatin\\PigLatin.csproj|solutionrelative:piglatin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B0F90B-6287-4F12-8766-E0F77C60B335}|PigLatin\\PigLatin.csproj|e:\\gitrepository\\codesimulator\\piglatin\\piglatin\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B0F90B-6287-4F12-8766-E0F77C60B335}|PigLatin\\PigLatin.csproj|solutionrelative:piglatin\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "E:\\GitRepository\\CodeSimulator\\PigLatin\\TestPigLatin\\Test1.cs",
+              "RelativeDocumentMoniker": "TestPigLatin\\Test1.cs",
+              "ToolTip": "E:\\GitRepository\\CodeSimulator\\PigLatin\\TestPigLatin\\Test1.cs",
+              "RelativeToolTip": "TestPigLatin\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:34:53.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "E:\\GitRepository\\CodeSimulator\\PigLatin\\PigLatin\\Converter.cs",
+              "RelativeDocumentMoniker": "PigLatin\\Converter.cs",
+              "ToolTip": "E:\\GitRepository\\CodeSimulator\\PigLatin\\PigLatin\\Converter.cs",
+              "RelativeToolTip": "PigLatin\\Converter.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:29:35.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitRepository\\CodeSimulator\\PigLatin\\PigLatin\\Program.cs",
+              "RelativeDocumentMoniker": "PigLatin\\Program.cs",
+              "ToolTip": "E:\\GitRepository\\CodeSimulator\\PigLatin\\PigLatin\\Program.cs",
+              "RelativeToolTip": "PigLatin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:28:02.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
