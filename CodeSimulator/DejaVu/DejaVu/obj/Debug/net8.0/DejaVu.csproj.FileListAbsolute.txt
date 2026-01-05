@@ -1,0 +1,15 @@
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\bin\Debug\net8.0\DejaVu.exe
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\bin\Debug\net8.0\DejaVu.deps.json
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\bin\Debug\net8.0\DejaVu.runtimeconfig.json
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\bin\Debug\net8.0\DejaVu.dll
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\bin\Debug\net8.0\DejaVu.pdb
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\obj\Debug\net8.0\DejaVu.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\obj\Debug\net8.0\DejaVu.AssemblyInfoInputs.cache
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\obj\Debug\net8.0\DejaVu.AssemblyInfo.cs
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\obj\Debug\net8.0\DejaVu.csproj.CoreCompileInputs.cache
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\obj\Debug\net8.0\DejaVu.sourcelink.json
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\obj\Debug\net8.0\DejaVu.dll
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\obj\Debug\net8.0\refint\DejaVu.dll
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\obj\Debug\net8.0\DejaVu.pdb
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\obj\Debug\net8.0\DejaVu.genruntimeconfig.cache
+E:\GitRepository\CodeSimulator\DejaVu\DejaVu\obj\Debug\net8.0\ref\DejaVu.dll
