@@ -1,0 +1,15 @@
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\bin\Debug\net8.0\ML_Part1.exe
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\bin\Debug\net8.0\ML_Part1.deps.json
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\bin\Debug\net8.0\ML_Part1.runtimeconfig.json
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\bin\Debug\net8.0\ML_Part1.dll
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\bin\Debug\net8.0\ML_Part1.pdb
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\obj\Debug\net8.0\ML_Part1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\obj\Debug\net8.0\ML_Part1.AssemblyInfoInputs.cache
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\obj\Debug\net8.0\ML_Part1.AssemblyInfo.cs
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\obj\Debug\net8.0\ML_Part1.csproj.CoreCompileInputs.cache
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\obj\Debug\net8.0\ML_Part1.sourcelink.json
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\obj\Debug\net8.0\ML_Part1.dll
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\obj\Debug\net8.0\refint\ML_Part1.dll
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\obj\Debug\net8.0\ML_Part1.pdb
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\obj\Debug\net8.0\ML_Part1.genruntimeconfig.cache
+E:\GitRepository\MicrosoftLearn\ML_Part1\ML_Part1\obj\Debug\net8.0\ref\ML_Part1.dll
