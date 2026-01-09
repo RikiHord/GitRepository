@@ -1,0 +1,15 @@
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\bin\Debug\net10.0\TestProject6.exe
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\bin\Debug\net10.0\TestProject6.deps.json
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\bin\Debug\net10.0\TestProject6.runtimeconfig.json
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\bin\Debug\net10.0\TestProject6.dll
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\bin\Debug\net10.0\TestProject6.pdb
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\obj\Debug\net10.0\TestProject6.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\obj\Debug\net10.0\TestProject6.AssemblyInfoInputs.cache
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\obj\Debug\net10.0\TestProject6.AssemblyInfo.cs
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\obj\Debug\net10.0\TestProject6.csproj.CoreCompileInputs.cache
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\obj\Debug\net10.0\TestProject6.sourcelink.json
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\obj\Debug\net10.0\TestProject6.dll
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\obj\Debug\net10.0\refint\TestProject6.dll
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\obj\Debug\net10.0\TestProject6.pdb
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\obj\Debug\net10.0\TestProject6.genruntimeconfig.cache
+E:\GitRepository\MicrosoftLearn\ML_Part4\CsharpProjects\TestProject6\obj\Debug\net10.0\ref\TestProject6.dll
