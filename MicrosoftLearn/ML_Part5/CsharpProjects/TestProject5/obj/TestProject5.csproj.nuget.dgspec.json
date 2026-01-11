@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitRepository\\MicrosoftLearn\\ML_Part5\\CsharpProjects\\TestProject5\\TestProject5.csproj": {}
+    "e:\\GitRepository\\MicrosoftLearn\\ML_Part5\\CsharpProjects\\TestProject5\\TestProject5.csproj": {}
   },
   "projects": {
-    "E:\\GitRepository\\MicrosoftLearn\\ML_Part5\\CsharpProjects\\TestProject5\\TestProject5.csproj": {
+    "e:\\GitRepository\\MicrosoftLearn\\ML_Part5\\CsharpProjects\\TestProject5\\TestProject5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitRepository\\MicrosoftLearn\\ML_Part5\\CsharpProjects\\TestProject5\\TestProject5.csproj",
+        "projectUniqueName": "e:\\GitRepository\\MicrosoftLearn\\ML_Part5\\CsharpProjects\\TestProject5\\TestProject5.csproj",
         "projectName": "TestProject5",
-        "projectPath": "E:\\GitRepository\\MicrosoftLearn\\ML_Part5\\CsharpProjects\\TestProject5\\TestProject5.csproj",
+        "projectPath": "e:\\GitRepository\\MicrosoftLearn\\ML_Part5\\CsharpProjects\\TestProject5\\TestProject5.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "E:\\GitRepository\\MicrosoftLearn\\ML_Part5\\CsharpProjects\\TestProject5\\obj\\",
+        "outputPath": "e:\\GitRepository\\MicrosoftLearn\\ML_Part5\\CsharpProjects\\TestProject5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

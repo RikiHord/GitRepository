@@ -1,0 +1,60 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug TestProject1",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/CsharpProjects/TestProject1/bin/Debug/net10.0/TestProject1.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/CsharpProjects/TestProject1",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Debug TestProject2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build2",
+            "program": "${workspaceFolder}/CsharpProjects/TestProject2/bin/Debug/net10.0/TestProject2.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/CsharpProjects/TestProject2",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Debug TestProject3",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build3",
+            "program": "${workspaceFolder}/CsharpProjects/TestProject3/bin/Debug/net10.0/TestProject3.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/CsharpProjects/TestProject3",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Debug TestProject4",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build4",
+            "program": "${workspaceFolder}/CsharpProjects/TestProject4/bin/Debug/net10.0/TestProject4.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/CsharpProjects/TestProject4",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Debug TestProject5",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build5",
+            "program": "${workspaceFolder}/CsharpProjects/TestProject5/bin/Debug/net10.0/TestProject5.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/CsharpProjects/TestProject5",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        }
+    ]
+}
