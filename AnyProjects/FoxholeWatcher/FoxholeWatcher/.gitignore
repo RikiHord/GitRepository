@@ -1,0 +1,11 @@
+# Secrets
+appsettings.json
+
+# Bin/obj
+bin/
+obj/
+
+# Пользовательские настройки IDE
+.vscode/
+*.user
+*.suo
