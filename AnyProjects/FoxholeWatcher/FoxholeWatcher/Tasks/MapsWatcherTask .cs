@@ -3,6 +3,7 @@ using FoxholeWatcher.Foxhole;
 using FoxholeWatcher.Foxhole.Class;
 using FoxholeWatcher.Foxhole.Models;
 using System.Text.Json;
+using System.Xml.Linq;
 
 namespace FoxholeWatcher.Tasks
 {

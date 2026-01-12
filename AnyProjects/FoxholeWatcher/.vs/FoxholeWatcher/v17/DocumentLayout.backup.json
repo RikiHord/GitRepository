@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|e:\\gitrepository\\anyprojects\\foxholewatcher\\foxholewatcher\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|solutionrelative:foxholewatcher\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|e:\\gitrepository\\anyprojects\\foxholewatcher\\foxholewatcher\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|solutionrelative:foxholewatcher\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|e:\\gitrepository\\anyprojects\\foxholewatcher\\foxholewatcher\\tasks\\mapswatchertask .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|solutionrelative:foxholewatcher\\tasks\\mapswatchertask .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|e:\\gitrepository\\anyprojects\\foxholewatcher\\foxholewatcher\\foxhole\\class\\hexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|solutionrelative:foxholewatcher\\foxhole\\class\\hexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|e:\\gitrepository\\anyprojects\\foxholewatcher\\foxholewatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|solutionrelative:foxholewatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|e:\\gitrepository\\anyprojects\\foxholewatcher\\foxholewatcher\\discord\\discordwebhookclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|solutionrelative:foxholewatcher\\discord\\discordwebhookclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|e:\\gitrepository\\anyprojects\\foxholewatcher\\foxholewatcher\\foxhole\\models\\warinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|solutionrelative:foxholewatcher\\foxhole\\models\\warinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|e:\\gitrepository\\anyprojects\\foxholewatcher\\foxholewatcher\\foxhole\\foxholeapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|solutionrelative:foxholewatcher\\foxhole\\foxholeapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|e:\\gitrepository\\anyprojects\\foxholewatcher\\foxholewatcher\\foxhole\\class\\hexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB74DE1-BBF1-4D53-A9EA-902C52B34A4B}|FoxholeWatcher\\FoxholeWatcher.csproj|solutionrelative:foxholewatcher\\foxhole\\class\\hexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\.gitignore",
-              "RelativeDocumentMoniker": "FoxholeWatcher\\.gitignore",
-              "ToolTip": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\.gitignore",
-              "RelativeToolTip": "FoxholeWatcher\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-12T11:33:18.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\appsettings.json",
-              "RelativeDocumentMoniker": "FoxholeWatcher\\appsettings.json",
-              "ToolTip": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\appsettings.json",
-              "RelativeToolTip": "FoxholeWatcher\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-12T11:18:42.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DiscordWebhookClient.cs",
-              "DocumentMoniker": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Discord\\DiscordWebhookClient.cs",
-              "RelativeDocumentMoniker": "FoxholeWatcher\\Discord\\DiscordWebhookClient.cs",
-              "ToolTip": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Discord\\DiscordWebhookClient.cs",
-              "RelativeToolTip": "FoxholeWatcher\\Discord\\DiscordWebhookClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T10:44:09.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HexData.cs",
-              "DocumentMoniker": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Foxhole\\Class\\HexData.cs",
-              "RelativeDocumentMoniker": "FoxholeWatcher\\Foxhole\\Class\\HexData.cs",
-              "ToolTip": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Foxhole\\Class\\HexData.cs",
-              "RelativeToolTip": "FoxholeWatcher\\Foxhole\\Class\\HexData.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T10:39:03.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MapsWatcherTask .cs",
-              "DocumentMoniker": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Tasks\\MapsWatcherTask .cs",
-              "RelativeDocumentMoniker": "FoxholeWatcher\\Tasks\\MapsWatcherTask .cs",
-              "ToolTip": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Tasks\\MapsWatcherTask .cs",
-              "RelativeToolTip": "FoxholeWatcher\\Tasks\\MapsWatcherTask .cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAkwEUAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T09:34:35.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FoxholeApiClient.cs",
-              "DocumentMoniker": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Foxhole\\FoxholeApiClient.cs",
-              "RelativeDocumentMoniker": "FoxholeWatcher\\Foxhole\\FoxholeApiClient.cs",
-              "ToolTip": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Foxhole\\FoxholeApiClient.cs",
-              "RelativeToolTip": "FoxholeWatcher\\Foxhole\\FoxholeApiClient.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwEUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T15:51:14.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Program.cs",
               "RelativeDocumentMoniker": "FoxholeWatcher\\Program.cs",
               "ToolTip": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Program.cs",
               "RelativeToolTip": "FoxholeWatcher\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T15:49:49.429Z",
+              "WhenOpened": "2026-01-12T13:50:50.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WarInfo.cs",
-              "DocumentMoniker": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Foxhole\\Models\\WarInfo.cs",
-              "RelativeDocumentMoniker": "FoxholeWatcher\\Foxhole\\Models\\WarInfo.cs",
-              "ToolTip": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Foxhole\\Models\\WarInfo.cs",
-              "RelativeToolTip": "FoxholeWatcher\\Foxhole\\Models\\WarInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FoxholeApiClient.cs",
+              "DocumentMoniker": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Foxhole\\FoxholeApiClient.cs",
+              "RelativeDocumentMoniker": "FoxholeWatcher\\Foxhole\\FoxholeApiClient.cs",
+              "ToolTip": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Foxhole\\FoxholeApiClient.cs",
+              "RelativeToolTip": "FoxholeWatcher\\Foxhole\\FoxholeApiClient.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T15:53:13.465Z",
+              "WhenOpened": "2026-01-12T13:49:00.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HexData.cs",
+              "DocumentMoniker": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Foxhole\\Class\\HexData.cs",
+              "RelativeDocumentMoniker": "FoxholeWatcher\\Foxhole\\Class\\HexData.cs",
+              "ToolTip": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Foxhole\\Class\\HexData.cs",
+              "RelativeToolTip": "FoxholeWatcher\\Foxhole\\Class\\HexData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:44:55.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapsWatcherTask .cs",
+              "DocumentMoniker": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Tasks\\MapsWatcherTask .cs",
+              "RelativeDocumentMoniker": "FoxholeWatcher\\Tasks\\MapsWatcherTask .cs",
+              "ToolTip": "E:\\GitRepository\\AnyProjects\\FoxholeWatcher\\FoxholeWatcher\\Tasks\\MapsWatcherTask .cs",
+              "RelativeToolTip": "FoxholeWatcher\\Tasks\\MapsWatcherTask .cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:43:08.182Z",
               "EditorCaption": ""
             }
           ]

@@ -25,7 +25,7 @@ namespace FoxholeWatcher.Foxhole.Class
             // TODO: Переделать
             for (int i = 0; i < TeamIds.Count; i++)
             {
-                if (TeamIds[i] == "COLONIAL" && newList[i] != "COLONIAL")
+                if (TeamIds[i] == "COLONIALS" && newList[i] != "COLONIALS")
                 {
                     TeamIds = newList;
                     return true;
