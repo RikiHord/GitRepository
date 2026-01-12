@@ -17,22 +17,21 @@ namespace FoxholeWatcher.Foxhole.Class
             TeamIds = teamIds.ToList();
         }
 
-        public bool Update(IEnumerable<string> newTeamIds)
+        // Update TeamIds
+        public void SetTeamIds(IEnumerable<string> newTeamIds)
+        {
+            TeamIds = newTeamIds.ToList();
+        }
+
+        // Method for checking changes for any command
+        public bool HasLostBase(string team, IEnumerable<string> newTeamIds)
         {
             var newList = newTeamIds.ToList();
-            List<string> changes = new List<string>();
-
-            // TODO: Переделать
-            for (int i = 0; i < TeamIds.Count; i++)
+            for (int i = 0; i < Math.Min(TeamIds.Count, newList.Count); i++)
             {
-                if (TeamIds[i] == "COLONIALS" && newList[i] != "COLONIALS")
-                {
-                    TeamIds = newList;
+                if (TeamIds[i] == team && newList[i] != team)
                     return true;
-                }
             }
-
-            TeamIds = newList;
             return false;
         }
     }

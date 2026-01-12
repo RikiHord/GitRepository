@@ -6,65 +6,46 @@ namespace FoxholeWatcher.Foxhole
 {
     public class FoxholeApiClient
     {
-        private readonly HttpClient _httpClient;
+        private readonly HttpClient _httpClient = new HttpClient();
 
-        public FoxholeApiClient(HttpClient? httpClient = null)
+        public FoxholeApiClient(){}
+
+        private async Task<T> GetAndDeserializeAsync<T>(string url)
         {
-            _httpClient = httpClient ?? new HttpClient();
+            var response = await _httpClient.GetStringAsync(url);
+            if (string.IsNullOrWhiteSpace(response))
+                throw new HttpRequestException($"Empty response from {url}");
+
+            return JsonSerializer.Deserialize<T>(response, new JsonSerializerOptions
+            {
+                PropertyNameCaseInsensitive = true
+            })!;
         }
 
         public async Task<WarInfo?> GetWarInfoAsync()
         {
-            var response = await _httpClient.GetStringAsync(
+            // Get data about current war
+            return await GetAndDeserializeAsync<WarInfo>(
                 "https://war-service-live.foxholeservices.com/api/worldconquest/war"
             );
-
-            if (string.IsNullOrWhiteSpace(response))
-            {
-                throw new HttpRequestException("Received empty response from Foxhole API.");
-            }
-
-            return JsonSerializer.Deserialize<WarInfo>(
-                response,
-                new JsonSerializerOptions { PropertyNameCaseInsensitive = true }
-            )!;
         }
 
-        public async Task<Maps?> GetMapsAsync()
+        public async Task<string[]> GetMapsAsync()
         {
-            var response = await _httpClient.GetStringAsync(
+            // Get available hex names
+            return await GetAndDeserializeAsync<string[]>(
                 "https://war-service-live.foxholeservices.com/api/worldconquest/maps"
             );
-            if (string.IsNullOrWhiteSpace(response))
-            {
-                throw new HttpRequestException("Received empty response from Foxhole API.");
-            }
-
-            var maps = new Maps(
-                JsonSerializer.Deserialize<string[]>(response)!
-            );
-
-            return maps;
         }
 
         public async Task<HexData> GetDynamicMapDataAsync(string hexName)
         {
-            var response = await _httpClient.GetStringAsync(
+            //Get dynamic data for a specific hex
+            var data = await GetAndDeserializeAsync<MapResponse>(
                 $"https://war-service-live.foxholeservices.com/api/worldconquest/maps/{hexName}/dynamic/public"
             );
-            if (string.IsNullOrWhiteSpace(response))
-            {
-                throw new HttpRequestException("Received empty response from Foxhole API.");
-            }
 
-            var data = JsonSerializer.Deserialize<MapResponse>(
-                response, 
-                new JsonSerializerOptions
-                {
-                    PropertyNameCaseInsensitive = true
-                }
-            )!;
-
+            // Filter IconType
             var validIconTypes = new HashSet<int> { 45, 56, 57, 58 };
 
             var teamIds = data.MapItems
