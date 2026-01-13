@@ -1,6 +1,5 @@
 ﻿using FoxholeWatcher.Discord;
 using FoxholeWatcher.Foxhole;
-using FoxholeWatcher.Runners;
 using FoxholeWatcher.Services;
 using FoxholeWatcher.Services.Implementations;
 using FoxholeWatcher.Tasks;
@@ -12,13 +11,14 @@ namespace FoxholeWatcher
     {
         static async Task Main(string[] args)
         {
-            IConfigService config = new ConfigService("appsettings.json");
+            ILoggerService logger = new ConsoleLoggerService();
+            IConfigService config = new ConfigService("appsettings.json", logger);
 
             // Get Discord webhook URL from config
             string webhookUrl = config.Settings.Discord.WebhookUrl;
+            int timeoutSeconds = config.Settings.App.TimespanInSeconds;
 
             var discordClient = new DiscordWebhookClient(webhookUrl);
-            ILoggerService logger = new ConsoleLoggerService();
             INotificationService notifier = new DiscordNotificationService(discordClient, logger);
 
             var mapsWatcherTask = new MapsWatcherTask(
@@ -30,7 +30,7 @@ namespace FoxholeWatcher
             while (true)
             {
                 await mapsWatcherTask.ExecuteAsync();
-                await Task.Delay(TimeSpan.FromMinutes(1));
+                await Task.Delay(TimeSpan.FromSeconds(timeoutSeconds));
             }
         }
     }

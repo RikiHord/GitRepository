@@ -62,6 +62,8 @@ namespace FoxholeWatcher.Tasks
 
         private async Task UpdateAsync()
         {
+            bool dataUpdateCorrect = true;
+            List<string> errorUpdateHexNames = new List<string>();
             SemaphoreSlim semaphore = new SemaphoreSlim(5); // Max 5 concurrent requests
 
             var tasks = _hexDatas.Select(async hex =>
@@ -81,7 +83,8 @@ namespace FoxholeWatcher.Tasks
                 }
                 catch (Exception ex)
                 {
-                    _logger.Error($"Failed to update hex {hex.HexName}", ex);
+                    dataUpdateCorrect = false;
+                    errorUpdateHexNames.Add(hex.HexName);  
                 }
                 finally
                 {
@@ -90,7 +93,14 @@ namespace FoxholeWatcher.Tasks
             });
 
             await Task.WhenAll(tasks);
-            _logger.Info($"Map data update {DateTime.Now}");
+            if (dataUpdateCorrect)
+            {
+                _logger.Info($"Map data update {DateTime.Now}");
+            }
+            else
+            {
+                _logger.Warning($"Failed to update hex(s): {string.Join(" ", errorUpdateHexNames)}");
+            }
         }
     }
 }

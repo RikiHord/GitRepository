@@ -30,7 +30,10 @@ namespace FoxholeWatcher.Foxhole.Class
             for (int i = 0; i < Math.Min(TeamIds.Count, newList.Count); i++)
             {
                 if (TeamIds[i] == team && newList[i] != team)
+                {
+                    Console.WriteLine($"Comparing old: {TeamIds[i]} with new: {newList[i]} at index {i}");
                     return true;
+                }
             }
             return false;
         }

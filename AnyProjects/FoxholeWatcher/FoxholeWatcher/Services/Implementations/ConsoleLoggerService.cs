@@ -24,10 +24,10 @@ namespace FoxholeWatcher.Services.Implementations
         {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine($"[ERROR] {message}");
-            if (ex != null)
-            {
-                Console.WriteLine(ex.ToString());
-            }
+            //if (ex != null)
+            //{
+            //    Console.WriteLine(ex.ToString());
+            //}
             Console.ResetColor();
         }
     }
