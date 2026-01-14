@@ -38,22 +38,11 @@ namespace FoxholeWatcher.Foxhole
             );
         }
 
-        public async Task<HexData> GetDynamicMapDataAsync(string hexName)
+        public async Task<MapResponse> GetDynamicMapDataAsync(string hexName)
         {
-            //Get dynamic data for a specific hex
-            var data = await GetAndDeserializeAsync<MapResponse>(
+            return await GetAndDeserializeAsync<MapResponse>(
                 $"https://war-service-live.foxholeservices.com/api/worldconquest/maps/{hexName}/dynamic/public"
             );
-
-            // Filter IconType
-            var validIconTypes = new HashSet<int> { 45, 56, 57, 58 };
-
-            var teamIds = data.MapItems
-                .Where(i => validIconTypes.Contains(i.IconType))
-                .Select(i => i.TeamId)
-                .ToList();
-
-            return new HexData(hexName, teamIds);
         }
     }
 }

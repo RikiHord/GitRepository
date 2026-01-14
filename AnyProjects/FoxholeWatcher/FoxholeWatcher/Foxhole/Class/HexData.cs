@@ -6,35 +6,47 @@ using System.Threading.Tasks;
 
 namespace FoxholeWatcher.Foxhole.Class
 {
+    public class BaseInfo
+    {
+        public string BaseId { get; init; } = string.Empty;
+        public string TeamId { get; init; } = string.Empty;
+    }
     public class HexData
     {
         public string HexName { get; }
-        public IReadOnlyList<string> TeamIds { get; private set; }
+        private Dictionary<string, string> _bases = new();
 
-        public HexData(string hexName, IEnumerable<string> teamIds)
+        public HexData(string hexName, IEnumerable<BaseInfo> initialBases)
         {
             HexName = hexName;
-            TeamIds = teamIds.ToList();
+            _bases = initialBases.ToDictionary(b => b.BaseId, b => b.TeamId);
         }
 
-        // Update TeamIds
-        public void SetTeamIds(IEnumerable<string> newTeamIds)
+        public static string BuildBaseId(double x, double y)
         {
-            TeamIds = newTeamIds.ToList();
+            return $"{Math.Round(x, 5)}:{Math.Round(y, 5)}";
         }
 
-        // Method for checking changes for any command
-        public bool HasLostBase(string team, IEnumerable<string> newTeamIds)
+        /// <summary>
+        /// Method for checking changes for any command
+        /// </summary>
+        public bool HasLostBase(string team, IEnumerable<BaseInfo> newBases)
         {
-            var newList = newTeamIds.ToList();
-            for (int i = 0; i < Math.Min(TeamIds.Count, newList.Count); i++)
+            var newDict = newBases.ToDictionary(b => b.BaseId, b => b.TeamId);
+
+            foreach (var (baseId, oldTeam) in _bases)
             {
-                if (TeamIds[i] == team && newList[i] != team)
+                if (oldTeam != team)
+                    continue;
+
+                if (!newDict.TryGetValue(baseId, out var newTeam) || newTeam != team)
                 {
-                    Console.WriteLine($"Comparing old: {TeamIds[i]} with new: {newList[i]} at index {i}");
+                    _bases = newDict;
                     return true;
                 }
             }
+
+            _bases = newDict;
             return false;
         }
     }
