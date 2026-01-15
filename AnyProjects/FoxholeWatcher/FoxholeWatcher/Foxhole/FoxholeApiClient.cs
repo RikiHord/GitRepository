@@ -22,14 +22,6 @@ namespace FoxholeWatcher.Foxhole
             })!;
         }
 
-        public async Task<WarInfo?> GetWarInfoAsync()
-        {
-            // Get data about current war
-            return await GetAndDeserializeAsync<WarInfo>(
-                "https://war-service-live.foxholeservices.com/api/worldconquest/war"
-            );
-        }
-
         public async Task<string[]> GetMapsAsync()
         {
             // Get available hex names

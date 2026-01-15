@@ -93,7 +93,7 @@ namespace FoxholeWatcher.Tasks
 
                     if (colonialLost)
                     {
-                        string msg = $"Hex {hex.HexName}: COLONIAL base LOST";
+                        string msg = $"💀 One of the bases in {hex.HexName} was lost.";
                         _logger.Info(msg);
                         await _notifier.SendMessageAsync(msg);
                     }

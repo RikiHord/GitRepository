@@ -17,5 +17,8 @@
 
 ```json
 {
-  "DiscordWebhookUrl": "YOUR_WEBHOOK_URL_HERE",
+  "Discord": {
+    "WebhookUrl": "YOUR_WEBHOOK_URL_HERE"
+  },
+  ...
 }

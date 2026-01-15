@@ -26,8 +26,15 @@ namespace FoxholeWatcher.Services.Implementations
                 throw new Exception($"Config file not found: {path}");
 
             var json = File.ReadAllText(path);
-            return JsonSerializer.Deserialize<AppSettings>(json)
-                   ?? throw new Exception("Failed to load AppSettings");
+            try
+            {
+                return JsonSerializer.Deserialize<AppSettings>(json)
+                       ?? throw new Exception("Failed to load AppSettings");
+            }
+            catch (JsonException ex)
+            {
+                throw new Exception("Failed to parse config file", ex);
+            }
         }
 
         private static void Normalize(AppSettings settings, ILoggerService logger)
